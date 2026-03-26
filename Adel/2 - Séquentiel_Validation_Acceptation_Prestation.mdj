@@ -20646,7 +20646,7 @@
 									"top": 936,
 									"width": 417,
 									"height": 113,
-									"text": "Etape 14 : Scénario d'Erreur\nLa BDD a renvoyé une erreur et la validation de la prestation n'a pas pu être enregistrée\n14.1 Afficher un message d'erreur à l'utilisateur\n14.2 Arrêter le scénario\nDans le scénario nominal, la base de donnée envoie confirmation de la validation de la prestation."
+									"text": "Etape 14 : Scénario d'Erreur\nLa BDD a renvoyé une erreur et la validation de l'acceptation de la prestation n'a pas pu être enregistrée\n14.1 Afficher un message d'erreur à l'utilisateur\n14.2 Arrêter le scénario\nDans le scénario nominal, la base de donnée envoie confirmation de la validation de la prestation."
 								}
 							]
 						}
@@ -20913,7 +20913,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGdKadXEQ3+eAo="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -20921,7 +20922,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGdKadXEQ3+eAo="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -20929,7 +20931,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGdKadXEQ3+eAo="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				}
 			]
 		}
